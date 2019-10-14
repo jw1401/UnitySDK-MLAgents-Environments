@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Environments/CartPole/Scenes/CartPole.unity
+    guid: cf314bde221c0684f977e63fc8de093f
+  - enabled: 0
+    path: Assets/Environments/RollerBall/Continuous/RollerBall Continiuous Vector
+      Obs.unity
+    guid: e03987595afa5114cb4ce0e2d043d44e
+  - enabled: 0
+    path: Assets/Environments/BallSorter/Scenes/Vec and Vis Obs/BallSorterScene -
+      Visual Vector Obs.unity
+    guid: c38de25130f311e4594aae7d9e6902b0
+  - enabled: 1
+    path: Assets/Environments/BallSorter/Scenes/Vis Obs/BallSorterScene - Visual
+      Obs.unity
+    guid: 1281559fe3e4137418440adb6718c4db
+  m_configObjects: {}
